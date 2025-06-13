@@ -1,0 +1,11 @@
+
+FIGURE LEGENDS
+
+Figure 1: Sex Distribution Analysis of Reference Genomes
+(A) Overall sex distribution showing proportions of male, female, and unknown sex reference genomes across 16 mammalian species. (B) Sex distribution by taxonomic group revealing patterns of representation. (C) Temporal trends in sex representation across submission periods. (D) Heatmap showing sex annotation completeness by organism, with red indicating male bias, blue indicating female bias, and white indicating balanced or unknown representation.
+
+Figure 2: AI Tool Sex Bias Analysis
+(A) Disease prediction accuracy comparison between male and female samples for Random Forest and Logistic Regression models, showing consistent male-favored bias. (B) Magnitude of sex bias across different AI models, with negative values indicating male-favored performance. (C) Distribution of variant calling accuracy scores for male (blue) and female (red) samples, demonstrating systematic differences. (D) Feature importance heatmap showing differential importance patterns between male and female samples.
+
+Supplementary Figure 1: Interactive Analysis Dashboard
+Interactive visualization showing comprehensive analysis including temporal trends, sequencing technology associations, assembly level distributions, and sex source attribution patterns. Available as HTML file for detailed exploration.

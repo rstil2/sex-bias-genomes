@@ -1,0 +1,35 @@
+
+DATA DICTIONARY
+
+Raw_Assembly_Metadata.csv:
+- assembly_accession: NCBI assembly accession number
+- assembly_name: Official assembly name
+- organism_name: Scientific name of the organism
+- taxid: NCBI taxonomy ID
+- assembly_level: Level of assembly completion (chromosome, scaffold, etc.)
+- submitter: Submitting organization
+- biosample_accession: Associated BioSample record ID
+- bioproject_accession: Associated BioProject record ID
+- submission_date: Date of initial submission
+- release_date: Date of public release
+- sequencing_tech: Sequencing technologies used
+- assembly_type: Type of assembly (haploid, diploid, etc.)
+- genome_representation: Representation type (full, partial)
+- refseq_category: RefSeq categorization
+- ncbi_annotation: Annotation provider information
+- contig_n50: Contig N50 statistic
+- scaffold_n50: Scaffold N50 statistic
+
+Enriched_Reference_Genome_Data.csv:
+[All fields from Raw_Assembly_Metadata.csv plus:]
+- determined_sex: Final sex determination (Male/Female/Unknown)
+- sex_source: Source of sex information (BioSample/Literature/Text Parsing)
+- biosample_tissue: Tissue type from BioSample
+- biosample_age: Age information from BioSample
+- biosample_strain: Strain/breed information
+- biosample_collection_site: Geographic collection location
+- biosample_dev_stage: Developmental stage
+- sex_standardized: Standardized sex categories
+- taxonomic_group: Higher-level taxonomic classification
+- submission_year: Year of submission
+- time_period: Submission time period category

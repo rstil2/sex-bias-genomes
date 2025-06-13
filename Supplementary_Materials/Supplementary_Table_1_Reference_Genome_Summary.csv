@@ -1,0 +1,17 @@
+organism_name,assembly_name,assembly_accession,determined_sex,sex_source,submitter,submission_date
+Homo sapiens (human),GRCh38.p14,GCF_000001405.40,Female,Literature/Database,Genome Reference Consortium,2022/02/03 00:00
+Mus musculus (house mouse),GRCm39,GCF_000001635.27,Male,Literature/Database,Genome Reference Consortium,2020/06/24 00:00
+Rattus norvegicus (Norway rat),GRCr8,GCF_036323735.1,Male,BioSample,Genome Reference Consortium,2024/01/31 00:00
+Macaca mulatta (Rhesus monkey),Mmul_10,GCF_003339765.1,Female,BioSample,The Genome Institute at Washington University School of Medicine,2019/02/13 00:00
+Macaca fascicularis (crab-eating macaque),T2T-MFA8v1.1,GCF_037993035.2,Unknown,Unknown,Shanghai Jiao Tong University,2024/09/18 00:00
+Pan troglodytes (chimpanzee),NHGRI_mPanTro3-v2.1_pri,GCF_028858775.2,Male,BioSample,"National Human Genome Research Institute, National Institutes of Health",2024/01/08 00:00
+Gorilla gorilla gorilla (western lowland gorilla),NHGRI_mGorGor1-v2.1_pri,GCF_029281585.2,Male,BioSample,"National Human Genome Research Institute, National Institutes of Health",2024/01/08 00:00
+Pongo abelii (Sumatran orangutan),NHGRI_mPonAbe1-v2.1_pri,GCF_028885655.2,Male,BioSample,"National Human Genome Research Institute, National Institutes of Health",2024/01/05 00:00
+Canis lupus baileyi (Mexican gray wolf),mCanLup2.hap1,GCF_048164855.1,Male,BioSample,Vertebrate Genomes Project,2025/02/27 00:00
+Canis lupus dingo (dingo),ASM325472v2,GCF_003254725.2,Female,BioSample,James Cook University,2020/09/11 00:00
+Canis lupus familiaris (dog),UU_Cfam_GSD_1.0,GCF_011100685.1,Female,BioSample,Uppsala University,2020/03/10 00:00
+Felis catus (domestic cat),F.catus_Fca126_mat1.0,GCF_018350175.1,Female,BioSample,Texas A&M University,2021/05/13 00:00
+Bos taurus (domestic cattle),ARS-UCD2.0,GCF_002263795.3,Unknown,Unknown,USDA ARS,2023/07/01 00:00
+Sus scrofa (pig),Sscrofa11.1,GCF_000003025.6,Female,BioSample,The Swine Genome Sequencing Consortium (SGSC),2017/02/07 00:00
+Ovis aries (sheep),ARS-UI_Ramb_v3.0,GCF_016772045.2,Unknown,Unknown,University of Idaho,2023/07/20 00:00
+Equus caballus (horse),TB-T2T,GCF_041296265.1,Female,BioSample,University of Kentucky,2024/08/16 00:00
